@@ -3,29 +3,31 @@
 
 Email Me 👉 ✉️ **sohaibmoeed999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 **I’m currently working on:**
-- Building Full-Stack Web Applications and improving my development skills.
+**Currently Working On**
+- Building modern Full-Stack Web Applications using Vibe Coding and improving my development skills.
 
-🌱 **I’m currently learning:**
-- Full-Stack Development, Python, C#, MySQL, Git & GitHub.
+**Currently Learning**
+- Full-Stack Development
+- Python
+- C#
+- MySQL
+- Git & GitHub
+- Prompt Engineering
 
-👯 **I’m looking to collaborate on:**
-- Web Development and Open Source Projects.
+**Ask Me About**
+- Web Development
+- Full-Stack Development
+- Python
+- C#
+- MySQL
+- Git & GitHub
+- Prompt Engineering
 
-🤔 **I’m looking for help with:**
-- Advanced Web Development and Real-World Projects.
+**Reach Me**
+- Email: **sohaibmoeed999@gmail.com**
 
-💬 **Ask me about:**
-- Python, C#, MySQL, GitHub, and Web Development,prompt engineering
-
-📫 **How to reach me:**
-- sohaibmoeed999@gmail.com
-
-😄 **Pronouns:**
-- He/Him
-
-⚡ **Fun fact:**
-- I love learning new technologies and building useful projects.
+**Fun Fact**
+- I enjoy learning new technologies, building real-world projects, and exploring AI-powered development workflows.
 
 
 ## 🌐 Socials:
