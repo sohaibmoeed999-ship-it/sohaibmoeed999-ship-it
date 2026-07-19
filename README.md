@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Sohaib Shahid
+# Hi , I'm Sohaib Shahid
 **A passionate Data Science student || vibe coder || prompt engineer**
 
-Email Me 👉 ✉️ **sohaibmoeed999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me ✉️ **sohaibmoeed999@gmail.com** For Collaboration/Project or Anything Else. 
 
 **Currently Working On**
 - Building modern Full-Stack Web Applications using Vibe Coding and improving my development skills.
