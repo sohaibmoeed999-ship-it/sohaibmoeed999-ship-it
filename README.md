@@ -8,6 +8,8 @@ Email Me ✉️ **sohaibmoeed999@gmail.com** For Collaboration/Project or Anythi
 
 **Currently Learning**
 - Full-Stack Development using vibe coding
+- DSA
+- Software Engineering
 - Python
 - C#
 - MySQL
