@@ -2,7 +2,7 @@
 
 <img src="hero.svg?v=1" alt="Hi there, I'm Sohaib Shahid — Data Science student" width="100%"/>
 
-**A passionate Data Science student || vibe coder || prompt engineer**
+**A passionate Data Science student**
 
 Email Me ✉️ **[sohaibmoeed999@gmail.com](mailto:sohaibmoeed999@gmail.com)** For Collaboration/Project or Anything Else.
 
