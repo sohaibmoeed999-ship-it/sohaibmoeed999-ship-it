@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg?v=1" alt="Hi there, I'm Sohaib Shahid — Data Science student, vibe coder, prompt engineer" width="100%"/>
+<img src="hero.svg?v=1" alt="Hi there, I'm Sohaib Shahid — Data Science student" width="100%"/>
 
 **A passionate Data Science student || vibe coder || prompt engineer**
 
